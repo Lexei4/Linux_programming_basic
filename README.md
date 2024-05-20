@@ -1,5 +1,8 @@
 "# Linux_programming_basic" 
 
+конспект
+https://github.com/fedorch/stepic-548
+
 В этом задании Вам необходимо создать разделяемую динамическую библиотеку libsolution.so в которой реализовать функцию со следующим прототипом:
 
 int stringStat(const char *string, size_t multiplier, int *count);
